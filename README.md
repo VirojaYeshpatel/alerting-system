@@ -1,12 +1,7 @@
-Perfect! Here’s a **complete, copy-paste-ready README.md** for your GitHub project. It includes setup, requirements, seed data, and instructions to run everything.
-
----
-
-````markdown
 # Alerting & Notification Platform
 
 ## Description
-This is the **MVP backend for an Alerting & Notification System** built for the SDE Intern assignment at Atomic Ads.  
+This is the **MVP backend for an Alerting & Notification System**.  
 It allows admins to create, update, and archive alerts, and users to fetch alerts, snooze them, and mark read/unread.  
 The system also includes **reminder logic** (recurring every 2 hours) and an **analytics dashboard** to track alert activity.
 
@@ -158,3 +153,4 @@ pip install -r requirements.txt
 * Future improvements can include email/SMS delivery, scheduled alerts, and role-based access
 
 ---
+
